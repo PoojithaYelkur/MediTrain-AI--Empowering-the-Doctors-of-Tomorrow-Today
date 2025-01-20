@@ -1,0 +1,1043 @@
+{
+    "conditions": [
+        {
+            "name": "Migraine Variant 1",
+            "symptoms": [
+                "severe headache",
+                "nausea"
+            ],
+            "severity": "low",
+            "suggestion": "Rest in a dark, quiet room and take prescribed medications. Recommended medicines: Sumatriptan (50mg), Naproxen (500mg), Ondansetron (4mg).",
+            "duration": "4-72 hours",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Influenza Variant 2",
+            "symptoms": [
+                "high fever",
+                "severe body aches",
+                "fatigue"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest and take prescribed antivirals if needed. Recommended medicines: Oseltamivir (75mg), Ibuprofen (400mg), Paracetamol (500mg).",
+            "duration": "1-2 weeks",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Migraine Variant 3",
+            "symptoms": [
+                "light sensitivity",
+                "severe headache"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest in a dark, quiet room and take prescribed medications. Recommended medicines: Sumatriptan (50mg), Naproxen (500mg), Ondansetron (4mg).",
+            "duration": "4-72 hours",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Migraine Variant 4",
+            "symptoms": [
+                "severe headache",
+                "nausea"
+            ],
+            "severity": "high",
+            "suggestion": "Rest in a dark, quiet room and take prescribed medications. Recommended medicines: Sumatriptan (50mg), Naproxen (500mg), Ondansetron (4mg).",
+            "duration": "4-72 hours",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 5",
+            "symptoms": [
+                "sore throat",
+                "runny nose"
+            ],
+            "severity": "low",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 6",
+            "symptoms": [
+                "sore throat",
+                "runny nose",
+                "headache"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Influenza Variant 8",
+            "symptoms": [
+                "fatigue",
+                "high fever"
+            ],
+            "severity": "low",
+            "suggestion": "Rest and take prescribed antivirals if needed. Recommended medicines: Oseltamivir (75mg), Ibuprofen (400mg), Paracetamol (500mg).",
+            "duration": "1-2 weeks",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Migraine Variant 9",
+            "symptoms": [
+                "nausea",
+                "severe headache",
+                "light sensitivity"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest in a dark, quiet room and take prescribed medications. Recommended medicines: Sumatriptan (50mg), Naproxen (500mg), Ondansetron (4mg).",
+            "duration": "4-72 hours",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Migraine Variant 10",
+            "symptoms": [
+                "severe headache",
+                "nausea",
+                "light sensitivity"
+            ],
+            "severity": "high",
+            "suggestion": "Rest in a dark, quiet room and take prescribed medications. Recommended medicines: Sumatriptan (50mg), Naproxen (500mg), Ondansetron (4mg).",
+            "duration": "4-72 hours",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Migraine Variant 11",
+            "symptoms": [
+                "nausea",
+                "light sensitivity"
+            ],
+            "severity": "high",
+            "suggestion": "Rest in a dark, quiet room and take prescribed medications. Recommended medicines: Sumatriptan (50mg), Naproxen (500mg), Ondansetron (4mg).",
+            "duration": "4-72 hours",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Common Cold Variant 12",
+            "symptoms": [
+                "headache",
+                "fever"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 13",
+            "symptoms": [
+                "runny nose",
+                "sore throat",
+                "fever",
+                "headache"
+            ],
+            "severity": "low",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 14",
+            "symptoms": [
+                "fever",
+                "sore throat"
+            ],
+            "severity": "high",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Common Cold Variant 16",
+            "symptoms": [
+                "sore throat",
+                "runny nose",
+                "fever"
+            ],
+            "severity": "high",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Influenza Variant 17",
+            "symptoms": [
+                "high fever",
+                "fatigue"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest and take prescribed antivirals if needed. Recommended medicines: Oseltamivir (75mg), Ibuprofen (400mg), Paracetamol (500mg).",
+            "duration": "1-2 weeks",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Influenza Variant 18",
+            "symptoms": [
+                "fatigue",
+                "high fever"
+            ],
+            "severity": "high",
+            "suggestion": "Rest and take prescribed antivirals if needed. Recommended medicines: Oseltamivir (75mg), Ibuprofen (400mg), Paracetamol (500mg).",
+            "duration": "1-2 weeks",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Influenza Variant 19",
+            "symptoms": [
+                "fatigue",
+                "high fever",
+                "severe body aches"
+            ],
+            "severity": "low",
+            "suggestion": "Rest and take prescribed antivirals if needed. Recommended medicines: Oseltamivir (75mg), Ibuprofen (400mg), Paracetamol (500mg).",
+            "duration": "1-2 weeks",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 20",
+            "symptoms": [
+                "headache",
+                "sore throat"
+            ],
+            "severity": "high",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Common Cold Variant 21",
+            "symptoms": [
+                "fever",
+                "runny nose",
+                "sore throat",
+                "headache"
+            ],
+            "severity": "high",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Influenza Variant 22",
+            "symptoms": [
+                "severe body aches",
+                "high fever"
+            ],
+            "severity": "low",
+            "suggestion": "Rest and take prescribed antivirals if needed. Recommended medicines: Oseltamivir (75mg), Ibuprofen (400mg), Paracetamol (500mg).",
+            "duration": "1-2 weeks",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 24",
+            "symptoms": [
+                "fever",
+                "runny nose"
+            ],
+            "severity": "low",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 30",
+            "symptoms": [
+                "sore throat",
+                "runny nose",
+                "fever",
+                "headache"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Common Cold Variant 31",
+            "symptoms": [
+                "headache",
+                "fever",
+                "sore throat"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Influenza Variant 32",
+            "symptoms": [
+                "high fever",
+                "severe body aches",
+                "fatigue"
+            ],
+            "severity": "high",
+            "suggestion": "Rest and take prescribed antivirals if needed. Recommended medicines: Oseltamivir (75mg), Ibuprofen (400mg), Paracetamol (500mg).",
+            "duration": "1-2 weeks",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Migraine Variant 35",
+            "symptoms": [
+                "light sensitivity",
+                "severe headache"
+            ],
+            "severity": "high",
+            "suggestion": "Rest in a dark, quiet room and take prescribed medications. Recommended medicines: Sumatriptan (50mg), Naproxen (500mg), Ondansetron (4mg).",
+            "duration": "4-72 hours",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Common Cold Variant 37",
+            "symptoms": [
+                "runny nose",
+                "fever",
+                "headache"
+            ],
+            "severity": "low",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Common Cold Variant 38",
+            "symptoms": [
+                "sore throat",
+                "headache",
+                "runny nose"
+            ],
+            "severity": "low",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Influenza Variant 39",
+            "symptoms": [
+                "severe body aches",
+                "high fever"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest and take prescribed antivirals if needed. Recommended medicines: Oseltamivir (75mg), Ibuprofen (400mg), Paracetamol (500mg).",
+            "duration": "1-2 weeks",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Common Cold Variant 41",
+            "symptoms": [
+                "fever",
+                "headache",
+                "runny nose"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Migraine Variant 43",
+            "symptoms": [
+                "severe headache",
+                "light sensitivity",
+                "nausea"
+            ],
+            "severity": "low",
+            "suggestion": "Rest in a dark, quiet room and take prescribed medications. Recommended medicines: Sumatriptan (50mg), Naproxen (500mg), Ondansetron (4mg).",
+            "duration": "4-72 hours",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Common Cold Variant 46",
+            "symptoms": [
+                "runny nose",
+                "fever",
+                "headache"
+            ],
+            "severity": "high",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 47",
+            "symptoms": [
+                "runny nose",
+                "fever",
+                "sore throat"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Common Cold Variant 48",
+            "symptoms": [
+                "runny nose",
+                "fever",
+                "sore throat"
+            ],
+            "severity": "low",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Migraine Variant 56",
+            "symptoms": [
+                "nausea",
+                "light sensitivity"
+            ],
+            "severity": "low",
+            "suggestion": "Rest in a dark, quiet room and take prescribed medications. Recommended medicines: Sumatriptan (50mg), Naproxen (500mg), Ondansetron (4mg).",
+            "duration": "4-72 hours",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 63",
+            "symptoms": [
+                "headache",
+                "fever"
+            ],
+            "severity": "low",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Influenza Variant 64",
+            "symptoms": [
+                "fatigue",
+                "severe body aches"
+            ],
+            "severity": "high",
+            "suggestion": "Rest and take prescribed antivirals if needed. Recommended medicines: Oseltamivir (75mg), Ibuprofen (400mg), Paracetamol (500mg).",
+            "duration": "1-2 weeks",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 72",
+            "symptoms": [
+                "fever",
+                "sore throat"
+            ],
+            "severity": "low",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Influenza Variant 74",
+            "symptoms": [
+                "severe body aches",
+                "fatigue"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest and take prescribed antivirals if needed. Recommended medicines: Oseltamivir (75mg), Ibuprofen (400mg), Paracetamol (500mg).",
+            "duration": "1-2 weeks",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Common Cold Variant 76",
+            "symptoms": [
+                "runny nose",
+                "headache"
+            ],
+            "severity": "high",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Migraine Variant 78",
+            "symptoms": [
+                "severe headache",
+                "light sensitivity"
+            ],
+            "severity": "low",
+            "suggestion": "Rest in a dark, quiet room and take prescribed medications. Recommended medicines: Sumatriptan (50mg), Naproxen (500mg), Ondansetron (4mg).",
+            "duration": "4-72 hours",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 81",
+            "symptoms": [
+                "sore throat",
+                "fever",
+                "headache"
+            ],
+            "severity": "high",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Influenza Variant 89",
+            "symptoms": [
+                "severe body aches",
+                "high fever"
+            ],
+            "severity": "high",
+            "suggestion": "Rest and take prescribed antivirals if needed. Recommended medicines: Oseltamivir (75mg), Ibuprofen (400mg), Paracetamol (500mg).",
+            "duration": "1-2 weeks",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 90",
+            "symptoms": [
+                "sore throat",
+                "fever"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Migraine Variant 98",
+            "symptoms": [
+                "severe headache",
+                "nausea"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest in a dark, quiet room and take prescribed medications. Recommended medicines: Sumatriptan (50mg), Naproxen (500mg), Ondansetron (4mg).",
+            "duration": "4-72 hours",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Influenza Variant 100",
+            "symptoms": [
+                "severe body aches",
+                "fatigue"
+            ],
+            "severity": "low",
+            "suggestion": "Rest and take prescribed antivirals if needed. Recommended medicines: Oseltamivir (75mg), Ibuprofen (400mg), Paracetamol (500mg).",
+            "duration": "1-2 weeks",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 127",
+            "symptoms": [
+                "fever",
+                "headache"
+            ],
+            "severity": "high",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Migraine Variant 137",
+            "symptoms": [
+                "nausea",
+                "light sensitivity"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest in a dark, quiet room and take prescribed medications. Recommended medicines: Sumatriptan (50mg), Naproxen (500mg), Ondansetron (4mg).",
+            "duration": "4-72 hours",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 152",
+            "symptoms": [
+                "runny nose",
+                "sore throat"
+            ],
+            "severity": "high",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Common Cold Variant 155",
+            "symptoms": [
+                "headache",
+                "fever",
+                "sore throat"
+            ],
+            "severity": "low",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Common Cold Variant 177",
+            "symptoms": [
+                "fever",
+                "runny nose"
+            ],
+            "severity": "high",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 249",
+            "symptoms": [
+                "sore throat",
+                "headache"
+            ],
+            "severity": "low",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Common Cold Variant 259",
+            "symptoms": [
+                "headache",
+                "runny nose"
+            ],
+            "severity": "low",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Common Cold Variant 260",
+            "symptoms": [
+                "runny nose",
+                "headache",
+                "sore throat"
+            ],
+            "severity": "high",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 262",
+            "symptoms": [
+                "sore throat",
+                "headache"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "inaccurate"
+        },
+        {
+            "name": "Common Cold Variant 276",
+            "symptoms": [
+                "headache",
+                "runny nose"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "needs review"
+        },
+        {
+            "name": "Common Cold Variant 278",
+            "symptoms": [
+                "sore throat",
+                "runny nose"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest, stay hydrated, and take over-the-counter medications. Recommended medicines: Acetaminophen (500mg), Cetirizine (10mg), Dextromethorphan (15mg).",
+            "duration": "7-10 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Acute Bronchitis",
+            "symptoms": [
+                "persistent cough",
+                "chest congestion",
+                "wheezing",
+                "shortness of breath"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest, use humidifier, and take prescribed medications. Recommended medicines: Guaifenesin (400mg), Dextromethorphan (30mg), Ibuprofen (400mg).",
+            "duration": "2-3 weeks",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Seasonal Allergies",
+            "symptoms": [
+                "sneezing",
+                "itchy eyes",
+                "runny nose",
+                "nasal congestion"
+            ],
+            "severity": "low",
+            "suggestion": "Avoid allergens, take antihistamines. Recommended medicines: Cetirizine (10mg), Loratadine (10mg), Nasal spray.",
+            "duration": "varies with season",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Gastroenteritis",
+            "symptoms": [
+                "nausea",
+                "vomiting",
+                "diarrhea",
+                "stomach cramps",
+                "fever"
+            ],
+            "severity": "medium",
+            "suggestion": "Stay hydrated, rest, follow BRAT diet. Recommended medicines: Ondansetron (4mg), Loperamide (2mg), ORS.",
+            "duration": "2-5 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Tension Headache",
+            "symptoms": [
+                "dull headache",
+                "pressure around head",
+                "neck pain",
+                "shoulder pain"
+            ],
+            "severity": "low",
+            "suggestion": "Rest, stress management, gentle massage. Recommended medicines: Acetaminophen (500mg), Ibuprofen (400mg).",
+            "duration": "few hours to days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Acute Sinusitis",
+            "symptoms": [
+                "facial pain",
+                "nasal congestion",
+                "thick nasal discharge",
+                "reduced smell",
+                "headache"
+            ],
+            "severity": "medium",
+            "suggestion": "Steam inhalation, nasal irrigation. Recommended medicines: Pseudoephedrine (60mg), Amoxicillin if bacterial.",
+            "duration": "7-14 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Acid Reflux",
+            "symptoms": [
+                "heartburn",
+                "chest pain",
+                "regurgitation",
+                "difficulty swallowing"
+            ],
+            "severity": "medium",
+            "suggestion": "Avoid trigger foods, eat smaller meals. Recommended medicines: Omeprazole (20mg), Antacids, H2 blockers.",
+            "duration": "varies",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Urinary Tract Infection",
+            "symptoms": [
+                "frequent urination",
+                "burning sensation",
+                "cloudy urine",
+                "pelvic pain"
+            ],
+            "severity": "medium",
+            "suggestion": "Increase fluid intake, antibiotics needed. Recommended medicines: Nitrofurantoin (100mg), Phenazopyridine (200mg).",
+            "duration": "3-7 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Anxiety Attack",
+            "symptoms": [
+                "rapid heartbeat",
+                "sweating",
+                "trembling",
+                "shortness of breath",
+                "chest pain"
+            ],
+            "severity": "high",
+            "suggestion": "Deep breathing, grounding techniques. Recommended medicines: Alprazolam (0.25mg) if prescribed, seek counseling.",
+            "duration": "minutes to hours",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Food Poisoning",
+            "symptoms": [
+                "nausea",
+                "vomiting",
+                "diarrhea",
+                "abdominal pain",
+                "fever"
+            ],
+            "severity": "medium",
+            "suggestion": "Stay hydrated, rest, bland diet. Recommended medicines: Ondansetron (4mg), Loperamide (2mg), ORS.",
+            "duration": "1-3 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Cluster Headache",
+            "symptoms": [
+                "severe one-sided pain",
+                "eye tearing",
+                "nasal congestion",
+                "restlessness"
+            ],
+            "severity": "high",
+            "suggestion": "Oxygen therapy, stay calm. Recommended medicines: Sumatriptan injection, Verapamil (120mg).",
+            "duration": "15-180 minutes",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Pneumonia",
+            "symptoms": [
+                "high fever",
+                "cough with phlegm",
+                "chest pain",
+                "difficulty breathing",
+                "fatigue"
+            ],
+            "severity": "high",
+            "suggestion": "Immediate medical attention needed. Recommended medicines: Antibiotics as prescribed, antipyretics.",
+            "duration": "1-3 weeks",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Vertigo",
+            "symptoms": [
+                "dizziness",
+                "spinning sensation",
+                "nausea",
+                "balance problems"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest, avoid sudden movements. Recommended medicines: Meclizine (25mg), Diazepam if severe.",
+            "duration": "few hours to days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Conjunctivitis",
+            "symptoms": [
+                "red eyes",
+                "eye discharge",
+                "itchy eyes",
+                "swollen eyelids"
+            ],
+            "severity": "low",
+            "suggestion": "Eye hygiene, avoid touching. Recommended medicines: Antibiotic eye drops if bacterial, artificial tears.",
+            "duration": "7-14 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Asthma Attack",
+            "symptoms": [
+                "wheezing",
+                "coughing",
+                "chest tightness",
+                "shortness of breath"
+            ],
+            "severity": "high",
+            "suggestion": "Use rescue inhaler, stay calm. Recommended medicines: Albuterol inhaler, seek emergency if severe.",
+            "duration": "minutes to hours",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Kidney Stone",
+            "symptoms": [
+                "severe back pain",
+                "abdominal pain",
+                "painful urination",
+                "blood in urine",
+                "nausea"
+            ],
+            "severity": "high",
+            "suggestion": "Stay hydrated, pain management. Recommended medicines: Tamsulosin (0.4mg), strong pain relievers.",
+            "duration": "varies",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Chronic Tension Headache",
+            "symptoms": [
+                "dull headache",
+                "pressure around head",
+                "neck pain",
+                "shoulder pain"
+            ],
+            "severity": "medium",
+            "suggestion": "Rest, stress management. Recommended medicines: Acetaminophen (500mg), Ibuprofen (400mg), Muscle relaxants.",
+            "duration": "variable",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Bacterial Sinusitis",
+            "symptoms": [
+                "facial pain",
+                "nasal congestion",
+                "thick yellow discharge",
+                "reduced smell",
+                "fever"
+            ],
+            "severity": "high",
+            "suggestion": "Antibiotics needed, nasal care. Recommended medicines: Amoxicillin (500mg), Decongestants, Nasal steroids.",
+            "duration": "10-14 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "GERD Type 1",
+            "symptoms": [
+                "heartburn",
+                "chest pain",
+                "regurgitation",
+                "chronic cough"
+            ],
+            "severity": "high",
+            "suggestion": "Diet modification, elevate head. Recommended medicines: Omeprazole (40mg), Famotidine (20mg).",
+            "duration": "chronic",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Lower UTI",
+            "symptoms": [
+                "frequent urination",
+                "burning sensation",
+                "cloudy urine",
+                "lower abdominal pain"
+            ],
+            "severity": "medium",
+            "suggestion": "Antibiotics, hydration. Recommended medicines: Nitrofurantoin (100mg), Phenazopyridine (200mg).",
+            "duration": "3-7 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Panic Attack",
+            "symptoms": [
+                "rapid heartbeat",
+                "sweating",
+                "trembling",
+                "chest pain",
+                "fear of dying"
+            ],
+            "severity": "high",
+            "suggestion": "Breathing exercises, grounding. Recommended medicines: Alprazolam (0.5mg) if prescribed, therapy.",
+            "duration": "20-30 minutes",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Bacterial Food Poisoning",
+            "symptoms": [
+                "severe vomiting",
+                "bloody diarrhea",
+                "high fever",
+                "severe abdominal pain"
+            ],
+            "severity": "high",
+            "suggestion": "Medical attention, hydration. Recommended medicines: Ciprofloxacin (500mg), Ondansetron (8mg).",
+            "duration": "3-7 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Episodic Cluster Headache",
+            "symptoms": [
+                "severe eye pain",
+                "eye redness",
+                "nasal congestion",
+                "facial sweating"
+            ],
+            "severity": "high",
+            "suggestion": "Oxygen therapy, prevention. Recommended medicines: Sumatriptan injection, Verapamil (240mg).",
+            "duration": "cycles of weeks",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Bacterial Pneumonia",
+            "symptoms": [
+                "high fever",
+                "rust-colored sputum",
+                "severe chest pain",
+                "rapid breathing"
+            ],
+            "severity": "high",
+            "suggestion": "Hospitalization may be needed. Recommended medicines: Levofloxacin (750mg), Oxygen therapy.",
+            "duration": "2-4 weeks",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Benign Paroxysmal Positional Vertigo",
+            "symptoms": [
+                "spinning sensation",
+                "nausea",
+                "balance problems",
+                "visual disturbance"
+            ],
+            "severity": "medium",
+            "suggestion": "Epley maneuver, vestibular therapy. Recommended medicines: Meclizine (25mg), Diazepam (2mg).",
+            "duration": "days to weeks",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Bacterial Conjunctivitis",
+            "symptoms": [
+                "red eyes",
+                "yellow discharge",
+                "crusty eyelids",
+                "eye pain"
+            ],
+            "severity": "medium",
+            "suggestion": "Antibiotic treatment needed. Recommended medicines: Erythromycin eye ointment, Artificial tears.",
+            "duration": "5-7 days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Severe Asthma Attack",
+            "symptoms": [
+                "severe wheezing",
+                "blue lips",
+                "severe shortness of breath",
+                "confusion"
+            ],
+            "severity": "emergency",
+            "suggestion": "Immediate emergency care needed. Recommended medicines: Multiple Albuterol treatments, Prednisone.",
+            "duration": "hours to days",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Obstructing Kidney Stone",
+            "symptoms": [
+                "excruciating flank pain",
+                "vomiting",
+                "fever",
+                "blood in urine"
+            ],
+            "severity": "emergency",
+            "suggestion": "Emergency treatment needed. Recommended medicines: Morphine, Tamsulosin (0.4mg), IV fluids.",
+            "duration": "varies",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Migraine with Aura",
+            "symptoms": [
+                "visual disturbances",
+                "severe headache",
+                "sensitivity to light",
+                "nausea"
+            ],
+            "severity": "high",
+            "suggestion": "Dark quiet room, preventive care. Recommended medicines: Rizatriptan (10mg), Antiemetics.",
+            "duration": "4-72 hours",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Acute Appendicitis",
+            "symptoms": [
+                "right lower abdominal pain",
+                "nausea",
+                "fever",
+                "loss of appetite"
+            ],
+            "severity": "emergency",
+            "suggestion": "Immediate surgical evaluation. Recommended medicines: IV antibiotics, Pain management.",
+            "duration": "emergency surgery needed",
+            "machine_prediction": "accurate"
+        },
+        {
+            "name": "Diabetic Ketoacidosis",
+            "symptoms": [
+                "excessive thirst",
+                "frequent urination",
+                "nausea",
+                "confusion",
+                "fruity breath"
+            ],
+            "severity": "emergency",
+            "suggestion": "Immediate hospitalization needed. Recommended medicines: IV insulin, Fluid replacement.",
+            "duration": "days of treatment",
+            "machine_prediction": "accurate"
+        }
+    ]
+}
